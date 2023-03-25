@@ -5,7 +5,6 @@ description: DELETE ME this is just a test
 ---
 Oh hello there!
 
-
-![It's a car!](img/dscf8141.jpeg "vroom vroom")
+![](/img/dscf8141.jpeg)
 
 fdsfsd
